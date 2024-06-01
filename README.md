@@ -1,0 +1,14 @@
+# discord.js-noprofanity
+Discord Bot with discord.js module(v14)
+
+# Dependencies
+
+discord.js: "^14.14.1"<br>
+mongoose: "^8.3.0"<br>
+
+# Requirements
+
+Configure .ini file in ./src/config with:<br>
+Token - https://discord.com/developers/applications
+ClientId - https://discord.com/developers/applications
+GuildId - Discord Server ID that can be used to push commands from ./src/deploy-commands.js [optional]
